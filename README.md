@@ -1,7 +1,6 @@
 Eagle PCB Template for UB5 Project Box
 =======================================
-Copyright 2017 SuperHouse Pty Ltd  
-SuperHouse site:  www.superhouse.tv  
+Copyright 2017 SuperHouse Pty Ltd  www.superhouse.tv  
 Designed by Jonathan Oxer
 
 Simple PCB project template to help you design boards that will fit
